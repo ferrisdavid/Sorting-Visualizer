@@ -1,0 +1,22 @@
+*{
+    background-color:rgba(192, 190, 190, 0.945);
+}
+.array-container{
+    position: relative;
+    left: auto;
+    top: 100px;
+    bottom: auto;
+    transform: scale();
+    
+}
+
+.bar{
+    
+    background-color: pink;
+    margin: 0 auto;
+    margin-left:0.1% ;
+    display: inline-block;
+    box-shadow: 1px 3px rgba(2, 0, 0, 0.945);
+    
+    
+}

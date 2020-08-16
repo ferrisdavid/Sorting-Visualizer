@@ -1,0 +1,29 @@
+.toolbar{
+    background-image: linear-gradient(to right, rgba(27, 26, 26, 0.876), rgb(69, 21, 88));
+    height: 8vh;
+    position: relative;
+    display: inline-block;
+    box-shadow: 1px 2px rgba(42, 40, 40, 0.479);
+    
+}
+.title{
+    background-image: linear-gradient(to right, rgb(36, 125, 241), rgb(9, 198, 255) 50%, rgb(15, 235, 143));
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+
+    font-size: 7vh;
+    font-style: italic;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    
+    text-shadow: 1px 4px rgba(0, 0, 0, 0.089);
+    position: relative;
+    
+}
+.buttons{
+    margin-left: auto;
+    
+    font-size: large;
+    
+}
