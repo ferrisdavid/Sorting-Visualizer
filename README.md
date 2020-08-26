@@ -1,3 +1,6 @@
+The Sorting Visualizer is a web Application built using the react library to visualize various sorting algorithms. This project has helped me gain a better understanding of key computer science fundamentals such as data structures, objects, and sorting algorithms while also giving me the opportunity to develop knowledge of the structure of web applications and key fundamentals such as CSS, JavaScript, and, additionally, react components. This project was created out of an interest in the various sorting algorithms that are so fundamental in the world of computer science and the differences between them. I hope you enjoy playing around with these visualizations. Enjoy!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
